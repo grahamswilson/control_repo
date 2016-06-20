@@ -14,3 +14,10 @@ mod "puppetlabs/stdlib"
 mod "puppetlabs/vcsrepo"
 mod "saz/resolv_conf"
 mod "zack/r10k"
+
+# Modules NOT on the Forge
+
+mod 'ssh',
+  :git => 'https://github.com/grahamswilson/ssh.git',
+  :ref => 'development'
+
