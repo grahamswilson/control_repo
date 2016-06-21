@@ -14,6 +14,7 @@ mod "puppetlabs/stdlib"
 mod "puppetlabs/vcsrepo"
 mod "saz/resolv_conf"
 mod "zack/r10k"
+mod "puppetlabs/apache"
 
 # Modules NOT on the Forge
 
