@@ -25,4 +25,3 @@ mod 'ntp',
   :git => 'https://github.com/grahamswilson/ntp.git',
   :ref => 'development'
 
-`
