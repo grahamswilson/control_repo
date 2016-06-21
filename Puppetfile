@@ -21,3 +21,8 @@ mod 'ssh',
   :git => 'https://github.com/grahamswilson/ssh.git',
   :ref => 'development'
 
+mod 'ntp',
+  :git => 'https://github.com/grahamswilson/ntp.git',
+  :ref => 'development'
+
+`
