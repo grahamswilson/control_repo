@@ -26,3 +26,7 @@ mod 'ntp',
   :git => 'https://github.com/grahamswilson/ntp.git',
   :ref => 'development'
 
+mod 'profiles',
+  :git => 'https://github.com/grahamswilson/profiles.git',
+  :ref => 'development'
+
